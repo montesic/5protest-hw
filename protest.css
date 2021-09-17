@@ -1,0 +1,12 @@
+body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+    max-width: 720px;
+    margin: 0; auto;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+p {
+font-family: "Helvetica-neue"; helvetica;
+}
